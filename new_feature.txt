@@ -1,0 +1,6 @@
+This is my new feature
+
+int x;
+scanf("%d", &x);
+printf("Hello World! %d", x);
+return 0;
